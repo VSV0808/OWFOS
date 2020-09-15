@@ -1,3 +1,3 @@
 # OWFOS
 Online food ordering System
-Author:SRINI VENKAT V
+ (Author: SRINI VENKAT V)
